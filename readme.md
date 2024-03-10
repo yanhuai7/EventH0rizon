@@ -1,0 +1,1 @@
+Description: EventHorizon is an open-source event management platform that simplifies the planning and execution of conferences, meetups, and workshops. It features attendee registration, schedule management, and interactive venue maps.
